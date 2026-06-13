@@ -1,3 +1,10 @@
+Milestone: June 2026
+
+The idea behind this project emerged during the redesign of the Delivery System.
+
+Once operational systems are separated, stabilized, and event-driven, the next step is not adding more features.
+
+The next step is understanding the business through its data.
 # Operational Intelligence Platform
 
 ## Vision
